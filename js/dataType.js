@@ -1,4 +1,4 @@
 function githubOnlineEdit(){
-  console.log("")
+  console.log("使用vscode内置git")
   
 }
